@@ -1,0 +1,14 @@
+India Literacy Rate - Historical Data
+-------------------------------------
+Year	 Literacy Rate	   Annual Change
+2018		74.37%				5.07%
+2011		69.30%				6.55%
+2006		62.75%				1.74%
+2001		61.01%				12.79%
+1991		48.22%				7.46%
+1981		40.76%				7.46%
+
+- India literacy rate for 2018 was 74.37%, a 5.07% increase from 2011.
+- India literacy rate for 2011 was 69.30%, a 6.55% increase from 2006.
+- India literacy rate for 2006 was 62.75%, a 1.74% increase from 2001.
+- India literacy rate for 2001 was 61.01%, a 12.79% increase from 1991.

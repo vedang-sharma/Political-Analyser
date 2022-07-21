@@ -30,7 +30,6 @@ model = AutoModelForSequenceClassification.from_pretrained(MODEL)
 manifestos = ['BJP1998','BJP2004','BJP2014']
 
 for manifesto in manifestos:
-  # print("=============================")
   try:
     sentences = pd.read_csv('https://raw.githubusercontent.com/vedang-sharma/Political-Analyser/main/data/cleaned_manifestos/'+manifesto+'.csv')
 

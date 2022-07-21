@@ -38,9 +38,6 @@ for manifesto in manifestos:
     results = []
 
     for i in sentences['sentences']:
-      # if len(i) > 512:
-      #   print(len(i))
-      #   print(i)
       encoded_input = preprocessor.encode(i, return_tensors = 'pt')
       output = model(encoded_input)
       results.append(output[0].detach().numpy())
